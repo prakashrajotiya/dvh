@@ -4,7 +4,7 @@ body {
 }
 .section {
   background-color: grey;
-  height: 100vh;
+  height: 100dvh;
   padding: 10px;
   overflow: hidden;
 }
