@@ -18,7 +18,8 @@ body {
   background-color: #fff;
 }
 .section-two .content {
-  height: calc(100dvh - 65px);
+  /* height: calc(100dvh - 65px); */
+  height: 100vh;
   transition: height 0.2s;
   padding: 10px;
   overflow: hidden;
