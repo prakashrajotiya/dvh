@@ -15,11 +15,22 @@ body {
   background-color: yellow;
 }
 .section-two {
-  height: 100dvh;
+  background-color: #fff;
+}
+.section-two .content {
+  height: calc(100dvh - 100px);
   transition: height 0.2s;
-  background-color: green;
 }
 
 .section-three {
   background-color: blue;
+}
+.btn {
+  border: none;
+  background-color: green;
+  color: #000;
+  padding: 15px;
+  width: 100%;
+  font-weight: bold;
+  border-radius: 7px;
 }
