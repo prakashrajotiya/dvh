@@ -6,11 +6,12 @@ body {
   background-color: grey;
   height: 100dvh;
   padding: 10px;
+  transition: height 0.2s;
   overflow: hidden;
-  display: none;
+  /* display: none; */
 }
 .section-one {
-  display: block;
+  /* display: block; */
   background-color: yellow;
 }
 .section-two {
