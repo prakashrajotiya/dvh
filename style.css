@@ -1,0 +1,20 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.section {
+  background-color: grey;
+  height: 100vh;
+  padding: 10px;
+  overflow: hidden;
+}
+.section-one {
+  background-color: yellow;
+}
+.section-two {
+  background-color: green;
+}
+
+.section-three {
+  background-color: blue;
+}
