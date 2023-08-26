@@ -7,8 +7,10 @@ body {
   height: 100dvh;
   padding: 10px;
   overflow: hidden;
+  display: none;
 }
 .section-one {
+  display: block;
   background-color: yellow;
 }
 .section-two {
