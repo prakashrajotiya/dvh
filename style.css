@@ -21,6 +21,7 @@ body {
   height: calc(100dvh - 65px);
   transition: height 0.2s;
   padding: 10px;
+  overflow: hidden;
 }
 
 .section-three {
