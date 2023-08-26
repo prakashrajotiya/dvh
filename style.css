@@ -19,7 +19,7 @@ body {
 }
 .section-two .content {
   /* height: calc(100dvh - 65px); */
-  height: calc(100dvh - 65px);
+  height: calc(100vh - 65px);
   transition: height 0.2s;
   padding: 10px;
   overflow: hidden;
